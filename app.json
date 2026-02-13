@@ -1,73 +1,62 @@
-
 [
   {
-    "name": "Nova Store",
-    "project": "NovaStoreProject",
-    "version": "1.0.0",
-    "image": "https://example.com/icons/nova_store.png",
-    "url": "https://example.com/downloads/nova_store.apk"
+    "project_app_name": "Nova Store",
+    "image": "https://example.com/icons/nova.png",
+    "url": "https://example.com/downloads/nova.apk",
+    "version": "1.0.0"
   },
   {
-    "name": "Game Hub",
-    "project": "GameHubProject",
-    "version": "2.1.3",
-    "image": "https://example.com/icons/game_hub.png",
-    "url": "https://example.com/downloads/game_hub.apk"
+    "project_app_name": "Nova Store Lite",
+    "image": "https://example.com/icons/novalite.png",
+    "url": "https://example.com/downloads/novalite.apk",
+    "version": "1.1.0"
   },
   {
-    "name": "Photo Editor Pro",
-    "project": "PhotoEditorProject",
-    "version": "3.0.2",
-    "image": "https://example.com/icons/photo_editor.png",
-    "url": "https://example.com/downloads/photo_editor.apk"
+    "project_app_name": "Nova Games Hub",
+    "image": "https://example.com/icons/gameshub.png",
+    "url": "https://example.com/downloads/gameshub.apk",
+    "version": "2.0.0"
   },
   {
-    "name": "Video Maker",
-    "project": "VideoMakerProject",
-    "version": "4.5.1",
-    "image": "https://example.com/icons/video_maker.png",
-    "url": "https://example.com/downloads/video_maker.apk"
+    "project_app_name": "Nova Tools",
+    "image": "https://example.com/icons/tools.png",
+    "url": "https://example.com/downloads/tools.apk",
+    "version": "1.5.2"
   },
   {
-    "name": "Music Player X",
-    "project": "MusicPlayerProject",
-    "version": "5.0.0",
-    "image": "https://example.com/icons/music_player.png",
-    "url": "https://example.com/downloads/music_player.apk"
+    "project_app_name": "Nova Player",
+    "image": "https://example.com/icons/player.png",
+    "url": "https://example.com/downloads/player.apk",
+    "version": "3.0.1"
   },
   {
-    "name": "Chat Connect",
-    "project": "ChatConnectProject",
-    "version": "1.4.7",
-    "image": "https://example.com/icons/chat_connect.png",
-    "url": "https://example.com/downloads/chat_connect.apk"
+    "project_app_name": "Nova Browser",
+    "image": "https://example.com/icons/browser.png",
+    "url": "https://example.com/downloads/browser.apk",
+    "version": "2.3.4"
   },
   {
-    "name": "Weather Live",
-    "project": "WeatherLiveProject",
-    "version": "2.2.0",
-    "image": "https://example.com/icons/weather_live.png",
-    "url": "https://example.com/downloads/weather_live.apk"
+    "project_app_name": "Nova Editor",
+    "image": "https://example.com/icons/editor.png",
+    "url": "https://example.com/downloads/editor.apk",
+    "version": "1.8.0"
   },
   {
-    "name": "File Manager Plus",
-    "project": "FileManagerProject",
-    "version": "3.3.9",
-    "image": "https://example.com/icons/file_manager.png",
-    "url": "https://example.com/downloads/file_manager.apk"
+    "project_app_name": "Nova Launcher",
+    "image": "https://example.com/icons/launcher.png",
+    "url": "https://example.com/downloads/launcher.apk",
+    "version": "4.0.0"
   },
   {
-    "name": "Notes Keeper",
-    "project": "NotesKeeperProject",
-    "version": "1.8.4",
-    "image": "https://example.com/icons/notes_keeper.png",
-    "url": "https://example.com/downloads/notes_keeper.apk"
+    "project_app_name": "Nova VPN",
+    "image": "https://example.com/icons/vpn.png",
+    "url": "https://example.com/downloads/vpn.apk",
+    "version": "1.2.9"
   },
   {
-    "name": "Cleaner Master Lite",
-    "project": "CleanerMasterProject",
-    "version": "6.1.0",
-    "image": "https://example.com/icons/cleaner_master.png",
-    "url": "https://example.com/downloads/cleaner_master.apk"
+    "project_app_name": "Nova Chat",
+    "image": "https://example.com/icons/chat.png",
+    "url": "https://example.com/downloads/chat.apk",
+    "version": "5.1.0"
   }
 ]
