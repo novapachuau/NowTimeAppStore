@@ -1,7 +1,7 @@
 [
   {
     "project_app_name": "Nova Store",
-    "image": "https://example.com/icons/nova.png",
+    "image": "https://raw.githubusercontent.com/Mexi23/JCGameUtility/refs/heads/main/Saber_Default_image.png",
     "url": "https://example.com/downloads/nova.apk",
     "version": "1.0.0"
   },
