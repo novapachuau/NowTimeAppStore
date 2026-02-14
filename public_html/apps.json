@@ -1,1 +1,13 @@
 
+{
+  "notice": "Welcome to Nova Store 🔥",
+  "apps": [
+    {
+      "name": "Racing Game",
+      "description": "Cool racing game",
+      "version": "1.0",
+      "icon": "https://yourdomain.com/racing.png",
+      "file_url": "https://yourdomain.com/racing.apk"
+    }
+  ]
+}
