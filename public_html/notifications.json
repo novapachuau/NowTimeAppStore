@@ -1,0 +1,9 @@
+{
+  "notifications": [
+    {
+      "title": "Update Available!",
+      "message": "A new version of the app is here. Update now!",
+      "link": "https://yourapp.com/update"
+    }
+  ]
+}
